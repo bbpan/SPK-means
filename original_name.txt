@@ -1,0 +1,73 @@
+Renamed Data Set        Original Name
+abalone                 Abalone
+arrhythmia              Arrhythmia
+authentication          banknote authentication
+balance-scale           Balance Scale
+balloon-1               Balloons/adult+stretch
+balloon-2               Balloons/adult-stretch
+balloon-3               Balloons/yellow-small+adult-stretch
+bc-wisc-diag            Breast Cancer Wisconsin (Diagnostic)/wdbc
+breast-tissue           Breast Tissue 
+cb-sonar                Connectionist Bench (Sonar, Mines vs. Rocks)/sonar.all
+cb-vowel                Connectionist Bench (Vowel Recognition - Deterding Data)/vowel
+cb-vowel-context        Connectionist Bench (Vowel Recognition - Deterding Data)/vowel-context
+chess-krvkp             Chess (King-Rook vs. King-Pawn)
+clean                   Musk (Version 1) /clean1
+climate                 Climate Model Simulation Crashes
+cnae-9                  CNAE-9
+contrac                 Contraceptive Method Choice
+credit-approval         Credit Approval/crx
+ecoli                   Ecoli
+fertility               Fertility
+forest-types            Forest type mapping
+glass                   Glass Identification
+haberman-survival       Haberman's Survival
+hayes-roth              Hayes-Roth
+hepatitis               Hepatitis
+hill-valley             Hill-Valley/Hill_Valley_without_noise_Training+Testing
+hill-valley-noise       Hill-Valley/Hill_Valley_with_noise_Training+Testing
+ionosphere              Ionosphere
+iris                    Iris
+knowledge-model         User Knowledge Modeling
+leaf                    Leaf
+lenses                  Lenses
+libras                  Libras Movement/movement_libras
+liver-disorders         Liver Disorders/bupa
+lung-cancer             Lung Cancer
+mammographic            Mammographic Mass
+mb-promoter             Molecular Biology (Promoter Gene Sequences)
+mb-splice               Molecular Biology (Splice-junction Gene Sequences) 
+mice-protein            Mice Protein Expression
+monks-1                 MONK's Problems/monks-1.test+train
+monks-2                 MONK's Problems/monks-2.test+train
+monks-3                 MONK's Problems/monks-3.test+train
+optdigits               Optical Recognition of Handwritten Digits/optdigits.tes+tra
+page-blocks             Page Blocks Classification    
+parkinsons              Parkinsons
+pima                    Pima Indians Diabetes 
+post-operative          Post-Operative Patient
+seeds                   seeds
+segmentation            Image Segmentation
+soybean                 Soybean (Small)/soybean-small
+spambase                Spambase
+st-australian           Statlog (Australian Credit Approval) 
+st-german-credit        Statlog (German Credit Data)/german
+st-german-numeric       Statlog (German Credit Data)/german.data-numeric
+st-heart                Statlog (Heart)
+st-landsat              Statlog (Landsat Satellite)  
+st-vehicle              Statlog (Vehicle Silhouettes)
+synthetic-control       Synthetic Control Chart Time Series 
+teaching                Teaching Assistant Evaluation 
+tic-tac-toe             Tic-Tac-Toe Endgame
+urban-land-cover        Urban Land Cover
+wall-following          Wall-Following Robot Navigation Data/sensor_readings_24
+waveform                Waveform Database Generator (Version 1)/waveform       
+wholesale               Wholesale customers
+wilt                    Wilt 
+wine                    Wine
+wine-quality-red        Wine Quality/winequality-red
+wine-quality-white      Wine Quality/winequality-white
+yeast                   Yeast
+zoo                     Zoo
+
+
